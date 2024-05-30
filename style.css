@@ -1,0 +1,54 @@
+#jv {
+    float: right;
+    width: 220px;
+    padding-left: 10px;
+}
+
+#define {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    word-spacing: 3px;
+}
+
+#travel {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    word-spacing: 3px;
+}
+
+#India {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    word-spacing: 3px;
+}
+
+mark:hover {
+    text-decoration: underline red;
+
+}
+
+body {
+    background-color: beige;
+}
+
+#a {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    word-spacing: 3px;
+}
